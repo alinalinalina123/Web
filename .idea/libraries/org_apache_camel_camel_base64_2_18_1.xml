@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="org.apache.camel:camel-base64:2.18.1" type="repository">
+    <properties maven-id="org.apache.camel:camel-base64:2.18.1" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/camel/camel-base64/2.18.1/camel-base64-2.18.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/camel/camel-core/2.18.1/camel-core-2.18.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.21/slf4j-api-1.7.21.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/sun/xml/bind/jaxb-core/2.2.11/jaxb-core-2.2.11.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/sun/xml/bind/jaxb-impl/2.2.11/jaxb-impl-2.2.11.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-codec/commons-codec/1.10/commons-codec-1.10.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.4.RELEASE/spring-core-4.3.4.RELEASE.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.2/commons-logging-1.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/camel/apt/2.18.1/apt-2.18.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/camel/spi-annotations/2.18.1/spi-annotations-2.18.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-configuration-processor/1.4.2.RELEASE/spring-boot-configuration-processor-1.4.2.RELEASE.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/json/json/20140107/json-20140107.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
